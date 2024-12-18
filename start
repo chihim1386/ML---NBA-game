@@ -1,0 +1,7 @@
+echo "# ML---NBA-game" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/chihim1386/ML---NBA-game.git
+git push -u origin main
